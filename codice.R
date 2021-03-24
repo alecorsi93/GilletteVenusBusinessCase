@@ -1,5 +1,3 @@
-setwd("~/Università - work_in_progress/LABORATORIO E GESTIONE DI IMPRESA/Business case P&G")
-
 ## PACKAGES
 packages <- c("DataExplorer","plotly","ggplot2","corrplot","pander","caret","readxl",
               "sf","mapview","miscTools","dplyr","caret","rpart","rpart.plot",
